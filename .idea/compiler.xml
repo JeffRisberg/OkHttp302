@@ -9,11 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Kubernetes01" />
         <module name="OkHttp301" />
+        <module name="OkHttp302" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Kubernetes01" target="1.5" />
       <module name="OkHttp301" target="1.8" />
+      <module name="OkHttp302" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
